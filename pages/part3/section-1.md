@@ -1,6 +1,8 @@
 
 # Deeper understanding of Docker #
 
+## MY OWN CHANGES FOR TESTING :-) ##
+
 We've focused on using Docker as a tool to solve various types of problems. Meanwhile we have decided to push some of the issues until later and completely ignored others.
 
 The goal for this part is to look into the best practices and improve our processes.
