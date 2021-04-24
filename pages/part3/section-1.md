@@ -1,5 +1,6 @@
 
 # Deeper understanding of Docker #
+### You almost made it to the end! Congrats! ###
 
 ## MY OWN CHANGES FOR TESTING :-) ##
 
